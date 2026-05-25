@@ -1,0 +1,65 @@
+.banner{
+     display: flex;
+     flex-direction: column;
+ 
+}
+
+.profile{
+    
+     font-weight: 400;
+  font-style: normal;
+font-size: 90px;
+cursor : pointer;
+-webkit-text-stroke: 1px #00d2d5;
+background-image: linear-gradient(0deg, #004b4d , #7af6ff);
+background-clip: text;
+color: transparent;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: 0% 100%;
+transition: background-size 0.5s ease-in;
+ 
+
+}
+.cosmos{
+    
+     font-weight: 400;
+  font-style: normal;
+font-size: 90px;
+cursor : pointer;
+-webkit-text-stroke: 1px #00d2d5;
+background-image: linear-gradient(0deg, #004b4d , #7af6ff);
+background-clip: text;
+color: transparent;
+background-repeat: no-repeat;
+background-position: 100% 0%;
+background-size: 0% 100%;
+transition: background-size 0.5s ease-in;
+ 
+}
+.music{
+    
+     font-weight: 400;
+  font-style: normal;
+font-size: 90px;
+cursor : pointer;
+-webkit-text-stroke: 1px #00d2d5;
+background-image: linear-gradient(0deg, #004b4d , #7af6ff);
+background-clip: text;
+color: transparent;
+background-repeat: no-repeat;
+background-position: 0% 0%;
+background-size: 100% 0%;
+transition: background-size 0.5s ease-in;
+ 
+
+}
+
+.listbtn {
+     display: flex;
+    justify-content: flex-end;
+    background-clip: text;
+    color: transparent;
+    cursor : pointer;
+
+}

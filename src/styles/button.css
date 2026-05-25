@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+button {
+
+     border: none;
+     outline: none;
+     padding: 0;
+     font-family: "Monoton", sans-serif;
+     width: fit-content; 
+    height: fit-content;
+
+}
+
+
+
+button:hover{
+
+    background-size: 100% 100%;
+}
